@@ -1,0 +1,57 @@
+header {
+    background-color: yellow; width: 100%; height: 200px;
+}
+footer {
+    background-color: black; width: 100%; height: 200px;
+}
+td {
+    width: 300px; height: 250px;
+}
+#voe {
+    background-color: black; color: yellow;
+}
+#foto1 {
+    background-color: yellow;
+}
+#the {
+    background-color: rgb(45, 45, 45); color: rgb(255, 255, 25);
+}
+#foto2 {
+    background-color: rgb(255, 255, 25);
+}
+#pen {
+    background-color: rgb(75, 75, 75); color: rgb(255, 255, 40);
+}
+#foto3 {
+    background-color: rgb(255, 255, 40);
+}
+#edw {
+    background-color: rgb(100, 100, 100); color: rgb(255, 255, 60);
+}
+#foto4 {
+    background-color: rgb(255, 255, 60);
+}
+#her {
+    background-color: rgb(120, 120, 120); color: rgb(255, 255, 80);
+}
+#foto5 {
+    background-color: rgb(255, 255, 80);
+}
+#theo {
+    background-color: rgb(140, 140, 140); color: rgb(255, 255, 100);
+}
+#foto6 {
+    background-color: rgb(255, 255, 100);
+}
+#vla {
+    background-color: rgb(160, 160, 160); color: rgb(255, 255, 120);
+}
+#foto7 {
+    background-color: rgb(255,255, 120);
+}
+#gel {
+    background-color: rgb(180, 180, 180); color: rgb(255, 255, 140);
+}
+#foto8 {
+    background-color: rgb(255, 255, 140);
+}
